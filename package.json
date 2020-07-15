@@ -4,7 +4,7 @@
   "description": "Bot fait par Kawaii Alex",
   "main": "index.js",
   "scripts": {
-    "test": "ping"
+    "start": "node index.js"
   },
   "keywords": [
     "otaku",
